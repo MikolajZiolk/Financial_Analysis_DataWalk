@@ -11,6 +11,7 @@ The project "Financial analysis of DataWalk" is a financial analysis carried out
 - Cash Flow
 - Analysis of Indicators
 - Summary
+2. Financial statements 2020, 2021, 2022.
 
 ## Usage Instructions
 1. Download the "financial analysis.xlsx" file to your computer.
