@@ -1,7 +1,7 @@
 # Financial Analysis of DataWalk Company
 
 ## Project Description
-The project "Financial analysis of DataWalk" is a financial analysis carried out for DataWalk using a Microsoft Excel spreadsheet. This analysis aims to understand the financial situation of the company and assess its results based on available financial data, namely financial statements from the last 3 years.
+The project "Financial analysis of DataWalk" is a financial analysis of DataWalk company using a Microsoft Excel spreadsheet. This analysis aims to understand the financial situation of the company and assess its results based on available financial data, namely financial statements from the last 3 years.
 
 ## Project Contents
 1. **financial analysis.xlsx**: The main project file containing the Excel spreadsheet with the financial analysis of the DataWalk company.
