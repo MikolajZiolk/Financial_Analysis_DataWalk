@@ -5,12 +5,12 @@ The project "Financial analysis of DataWalk" is a financial analysis carried out
 ---
 ## Project Contents
 1. **financial analysis.xlsx**: The main project file containing the Excel spreadsheet with the financial analysis of the DataWalk company.
-*company description
-*balance
-*profit and loss account
-*cash flow
-*analysis of indicators
-*summary
+*company description*
+*balance*
+*profit and loss account*
+*cash flow*
+*analysis of indicators*
+*summary*
 3. **Documentation**: In this section, you will find documentation regarding the methods used for analysis, interpretation of results, and conclusions drawn from the analysis.
 4. **Charts**: Contains generated charts and graphs presenting key financial indicators of the DataWalk company.
 5. **Presentation**: Presentation created based on the analysis results, which can be used to present the main findings of the analysis.
