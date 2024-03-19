@@ -15,10 +15,9 @@ The project "Financial analysis of DataWalk" is a financial analysis of DataWalk
 
 ## Usage Instructions
 1. Download the "financial analysis.xlsx" file to your computer.
-2. Open the Microsoft Excel spreadsheet.
-3. In all sheets you can find calculations of various financial indicators, charts, as well as interpretations and conclusions.
-4. The "indicator analysis" sheet contains a comparison of selected indicators with indicators for the entire IT industry.
-5. The last stage includes a summary of the company's financial situation.
+2. In all sheets you can find calculations of various financial indicators, charts, as well as interpretations and conclusions.
+3. The "indicator analysis" sheet contains a comparison of selected indicators with indicators for the entire IT industry.
+4. The last stage includes a summary of the company's financial situation.
 
 ## Requirements
 - Microsoft Excel program (recommended version Excel 2010 or newer).
